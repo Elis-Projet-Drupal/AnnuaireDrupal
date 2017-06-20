@@ -10,7 +10,7 @@ id: annuaire_entity.annuaire_entity.field_date
 field_name: field_date
 entity_type: annuaire_entity
 bundle: annuaire_entity
-label: date
+label: Date
 description: ''
 required: false
 translatable: false
