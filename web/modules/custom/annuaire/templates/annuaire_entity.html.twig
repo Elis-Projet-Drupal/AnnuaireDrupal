@@ -1,0 +1,22 @@
+{#
+/**
+ * @file annuaire_entity.html.twig
+ * Default theme implementation to present Annuaire data.
+ *
+ * This template is used when viewing Annuaire pages.
+ *
+ *
+ * Available variables:
+ * - content: A list of content items. Use 'content' to print all content, or
+ * - attributes: HTML attributes for the container element.
+ *
+ * @see template_preprocess_annuaire_entity()
+ *
+ * @ingroup themeable
+ */
+#}
+<div{{ attributes.addClass('annuaire_entity') }}>
+  {% if content %}
+    {{- content -}}
+  {% endif %}
+</div>

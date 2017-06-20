@@ -1,0 +1,14 @@
+
+# Annuaire menu items definition
+entity.annuaire_entity.collection:
+  title: 'Annuaire list'
+  route_name: entity.annuaire_entity.collection
+  description: 'List Annuaire entities'
+  parent: system.admin_structure
+  weight: 100
+
+annuaire_entity.admin.structure.settings:
+  title: Annuaire settings
+  description: 'Configure Annuaire entities'
+  route_name: annuaire_entity.settings
+  parent: system.admin_structure

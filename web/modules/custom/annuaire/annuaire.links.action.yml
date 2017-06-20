@@ -1,0 +1,5 @@
+entity.annuaire_entity.add_form:
+  route_name: entity.annuaire_entity.add_form
+  title: 'Add Annuaire'
+  appears_on:
+    - entity.annuaire_entity.collection
