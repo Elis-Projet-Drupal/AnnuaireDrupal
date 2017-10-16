@@ -1,0 +1,22 @@
+add annuaire entities:
+  title: 'Create new Annuaire entities'
+
+administer annuaire entities:
+  title: 'Administer Annuaire entities'
+  description: 'Allow to access the administration form to configure Annuaire entities.'
+  restrict access: true
+
+delete annuaire entities:
+  title: 'Delete Annuaire entities'
+
+edit annuaire entities:
+  title: 'Edit Annuaire entities'
+
+access annuaire overview:
+  title: 'Access the Annuaire overview page'
+
+view published annuaire entities:
+  title: 'View published Annuaire entities'
+
+view unpublished annuaire entities:
+  title: 'View unpublished Annuaire entities'
